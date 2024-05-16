@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9myM32eLIn5J5YPdFhpViqq3KWg7w94i9i0F9GBDi5A=",
+  "Source": "auth-svc",
+  "BasePath": "_content/auth-svc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
